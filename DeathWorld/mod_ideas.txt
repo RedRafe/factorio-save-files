@@ -1,2 +1,47 @@
-Mod ideas for deathWorld:
+Mod ideas for BiterHell/DeathWorld++:
+
+Hello, I could use some help... :) I'm designing a BiterHell/DeathWorld++ plauthrough and I wanted to try some mods. Here there is a list of what I've gathered so far. The goal would be have a siege map where I can progress by killing biters (Combat Technology) and don't worry about production except for military materials. Should be challenging, but dont want to die before bots... Any suggestions for other mods/balancing?
+
+**bold** -> very likely to be played
+*italics* -> not convinced, yet
+(#) -> mods with similar features, in alternative 
+
+BUFF BITERS
+- **Armoured Biters** ||https://mods.factorio.com/mod/ArmouredBiters||
+- **Combat Technology** ||https://mods.factorio.com/mod/CombatTechnology||
+- **Schall Endgame Evolution** ||https://mods.factorio.com/mod/SchallEndgameEvolution||
+- **Rampant** ||https://mods.factorio.com/mod/Rampant||
+- **Evolution Technology** ||https://mods.factorio.com/mod/evo_tech||
+- **Natural Evolution Enemies** ||https://mods.factorio.com/mod/Nova-Natural_Evolution_Enemies||
+- **Schall Alien Mutation** ||https://mods.factorio.com/mod/SchallAlienMutation||
+- **Nightfall** ||https://mods.factorio.com/mod/Nightfall||
+- *Alien Loot Economy* ||https://mods.factorio.com/mod/alien-module||
+- *Swarmageddon* ||https://mods.factorio.com/mod/Swarmageddon||
+- *Bob's Enemies* ||https://mods.factorio.com/mod/bobenemies||
+- *Combat Mechanics Overhaul* ||https://mods.factorio.com/mod/combat-mechanics-overhaul||
+- *Explosive Biters* ||https://mods.factorio.com/mod/Explosive_biters||
+
+HELP ME
+- **Hero Turrets** ||https://mods.factorio.com/mod/heroturrets||
+- **King's Turret Shields** ||https://mods.factorio.com/mod/KingsTurret-Shields||
+- **Artillery Bombardment Remote** ||https://mods.factorio.com/mod/artillery-bombardment-remote||
+- **Make Artillery Great Again** ||https://mods.factorio.com/mod/Make_Artillery_Great_Again||
+- **Advanced Solar** ||https://mods.factorio.com/mod/Advanced-Solar||
+- *Rampant Arsenal* ||https://mods.factorio.com/mod/RampantArsenal||
+- *Zombies Extended Weapons* ||https://mods.factorio.com/mod/zombiesextended-weapons||
+- *Solar Walls* (#) ||https://mods.factorio.com/mod/solar-walls||
+- *Alien Walls* (#) ||https://mods.factorio.com/mod/AlienWall||
+- *Reinforced Walls* (#) ||https://mods.factorio.com/mod/Reinforced-Walls||
+- *Repair Turret* (#) ||https://mods.factorio.com/mod/Repair_Turret||
+- *No Wall Repair* (#) ||https://mods.factorio.com/mod/no-wall-repair||
+
+QoL:
+- [More ups-fps](https://mods.factorio.com/mod/ups-fps)
+- [RPG system](https://mods.factorio.com/mod/RPGsystem)
+- [Even Distribution](https://mods.factorio.com/mod/even-distribution)
+- [Fill4Me](https://mods.factorio.com/mod/Fill4Me)
+- [Power Armor MK3](https://mods.factorio.com/mod/Power%20Armor%20MK3)
+- [Inventory Repair](https://mods.factorio.com/mod/inventory-repair)
+- [Attila Zoom Mod](https://mods.factorio.com/mod/AttilaZoomMod)
+- [No Blacl Lines in Map View](https://mods.factorio.com/mod/MapView_NoBlackLines)
 
